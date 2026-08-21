@@ -30,3 +30,8 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
+recetas.html, ingredientes.html, utensilios.html, consejos.html {
+  background-color: #a465ec;
+  font-family: Arial, sans-serif;
+}
