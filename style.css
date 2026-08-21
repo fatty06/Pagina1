@@ -1,17 +1,17 @@
 /*Tama;o de imagen*/
-img{
+img {
   width: 200px;
   height: auto;               
 }
 
 /*Color de toda la apgina*/
-body{
+body {
   background-color: #a465ec;
   font-family: Arial, sans-serif;
 }
 
 /*Encabezado*/
-header{
+header {
   background-color: #933ce4;
   color:rgb(230, 236, 236)
   padding: 25px;
@@ -19,12 +19,12 @@ header{
 }
 
 /*Contenido*/
-main{
+main {
   padding: 30px;
 }
 
 /*Pie de pagina*/
-footer{
+footer {
   background-color: #933ce4;
   color: rgb(220, 234, 235);
   padding: 20px;
