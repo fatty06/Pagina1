@@ -1,4 +1,32 @@
+/*Tama;o de imagen*/
 img{
   width: 200px;
   height: auto;               
+}
+
+/*Color de toda la apgina*/
+body{
+  background-color: #a465ec;
+  font-family: Arial, sans-serif;
+}
+
+/*Encabezado*/
+header{
+  background-color: #933ce4;
+  color:cadetblue
+  padding: 25px;
+  text-align: center;
+}
+
+/*Contenido*/
+main{
+  padding: 30px;
+}
+
+/*Pie de pagina*/
+footer{
+  background-color: #933ce4;
+  color: cadetblue;
+  padding: 20px;
+  text-align: center;
 }
